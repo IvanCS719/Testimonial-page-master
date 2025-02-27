@@ -49,7 +49,7 @@
     list-style-type: none;
     display: flex;
     flex-direction: column;
-    gap: 1rem;
+    gap: .9rem;
   }
 
   .containerMain_reviewersText_list-item{
