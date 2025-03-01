@@ -106,3 +106,31 @@
 .containerMain_reviewsExamples_card:last-child{
   align-self: flex-start;
 }
+
+@media (max-width: 1024px) {
+  .containerMain {
+    grid-template-columns: 1fr;
+    padding: 2.4rem 2.6rem;
+  }
+
+  .containerMain_reviewsExamples{
+    width: 540px;
+    margin: 0 auto;
+    gap: 36px;
+  }
+}
+
+@media (max-width: 640px) {
+  .containerMain {
+    padding-left: 0.6rem;
+    padding-right: 0.6rem;
+  }
+
+  .containerMain_reviewsExamples{
+    width: 100%;
+  }
+
+  .containerMain_reviewsExamples_card{
+    width: 100%;
+  }
+}
