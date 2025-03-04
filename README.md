@@ -28,13 +28,13 @@
 
 ## Overview
 
-- Desktop
+- Desktop<br>
 ![Desktop](https://github.com/IvanCS719/Testimonial-page-master/blob/readme/design/Desktop_1350px.jpg?raw=true)
 
-- Tablet
+- Tablet<br>
 ![Tablet](https://github.com/IvanCS719/Testimonial-page-master/blob/readme/design/Tablet_1024px.jpg?raw=true)
 
-- Mobile
+- Mobile<br>
 ![Mobile](https://github.com/IvanCS719/Testimonial-page-master/blob/readme/design/Mobile_412px.jpg?raw=true)
 
 <!--
