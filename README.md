@@ -60,4 +60,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Author
 
 - Website [Testimonial Page | devChallenges](https://ivancs719.github.io/Testimonial-page-master/)
-- GitHub [IvanDroid](https://github.com/IvanCS719/Testimonial-page-master)
+- GitHub [IvanDroid](https://github.com/IvanCS719)
