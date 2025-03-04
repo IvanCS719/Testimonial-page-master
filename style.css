@@ -36,12 +36,14 @@
   .containerMain_reviewersText-title{
     font-size: 2.25rem;
     margin-bottom: 16px;
+    color: #18181B;
   }
 
   .containerMain_reviewersText-info{
     font-size: 1.25rem;
     margin-bottom: 32px;
     line-height: 1.8;
+    color: #52525A;
   }
 
   .containerMain_reviewersText_list{
@@ -50,6 +52,7 @@
     display: flex;
     flex-direction: column;
     gap: .9rem;
+    color: #52525A;
   }
 
   .containerMain_reviewersText_list-item{
@@ -92,11 +95,13 @@
 .containerMain_reviewsExamples_card-namePerson{
   font-size: 1rem;
   margin-bottom: 10px;
+  color: #18181B;
 }
 
 .containerMain_reviewsExamples_card-textReview{
   font-size: 1rem;
   line-height: 1.7;
+  color: #52525A;
 }
 
 .containerMain_reviewsExamples_card:first-child{
